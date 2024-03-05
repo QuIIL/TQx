@@ -1,0 +1,42 @@
+entity
+Metastatic angiosarcoma                                         5861
+Metastatic hepatocellular carcinoma                             5326
+Metastatic malignant neoplasm to liver                          5202
+Secondary malignant neoplasm of lung                            5198
+Adult Undifferentiated Pleomorphic Sarcoma                      4975
+Metastatic malignant neoplasm to adrenal gland                  4852
+Undifferentiated High Grade Pleomorphic Sarcoma of Bone         4470
+Malignant neoplasm of gallbladder                               4409
+Fibrolamellar Hepatocellular Carcinoma                          4325
+Biliary Tract Neoplasm                                          4259
+Meningeal Carcinomatosis                                        4174
+Conventional Angiosarcoma                                       3934
+Metastatic Malignant Neoplasm to the Leptomeninges              3635
+Metastatic malignant neoplasm to pancreas                       3611
+Sclerosing Epithelioid Fibrosarcoma                             3451
+Malignant neoplasm of lung                                      3431
+Meningothelial Cell Neoplasm                                    3176
+Mediastinal Neurogenic Neoplasm                                 3163
+Metastatic malignant neoplasm to vagina                         3135
+Densely Granulated Lactotroph Pituitary Neuroendocrine Tumor    3125
+entity
+Secondary malignant neoplasm of lung                    4355
+Serous cystadenoma, borderline malignancy               3789
+Pancreatic neuroendocrine tumour metastatic             3529
+Primary malignant neoplasm of bronchus                  3185
+Serous cystadenoma of ovary                             3135
+Ovarian Serous Adenocarcinoma                           3093
+Metastatic hepatocellular carcinoma                     3013
+Metastatic Lung Adenocarcinoma                          2999
+Pancreatic Intraductal Tubulopapillary Neoplasm         2935
+Metastatic angiosarcoma                                 2905
+Serous Endometrial Intraepithelial Carcinoma            2895
+Malignant neoplasm of lung                              2860
+Bronchioloalveolar Adenocarcinoma                       2757
+high grade serous adenocarcinoma of ovary               2747
+Micropapillary carcinoma                                2729
+Metastatic malignant neoplasm to pancreas               2662
+Small Cell Adenocarcinoma                               2647
+Metastatic Nasopharyngeal Undifferentiated Carcinoma    2630
+Malignant neoplasm of gallbladder                       2610
+Bronchial adenoma                                       2506

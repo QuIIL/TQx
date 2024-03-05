@@ -1,0 +1,63 @@
+entity
+Biliary Tract Neoplasm                                     11305
+Metastatic malignant neoplasm to adrenal gland             10958
+Metastatic malignant neoplasm to vagina                    10679
+Metastatic malignant neoplasm to liver                     10338
+Metastatic malignant neoplasm to vertebral column           9918
+Metastatic angiosarcoma                                     9564
+Adult Undifferentiated Pleomorphic Sarcoma                  9319
+Primary malignant neoplasm                                  8994
+Epithelioid Malignant Peripheral Nerve Sheath Tumor         8555
+Metastatic malignant neoplasm to pancreas                   8506
+Undifferentiated High Grade Pleomorphic Sarcoma of Bone     8422
+Conventional Leiomyosarcoma                                 8246
+Proximal-Type Epithelioid Sarcoma                           7331
+Undifferentiated Epithelioid Sarcoma                        7127
+Metastatic Nasopharyngeal Undifferentiated Carcinoma        7092
+Adrenal Cortex Neoplasms                                    6981
+Primary Malignant Liver Neoplasm                            6841
+Secondary malignant neoplasm of lung                        6664
+Malignant neoplasm of liver                                 6585
+Adrenal Gland Neoplasms                                     6536
+entity
+Malignant neoplasm of muscle                                18467
+Pleomorphic hyalinizing angiectatic tumor of soft tissue    17714
+Lipofibromatosis                                            17563
+Pleomorphic hyalinizing angiectatic tumor                   17274
+Fibromatosis-like metaplastic carcinoma                     17125
+Neoplasm of myocardium                                      16125
+Fibromatosis, Aggressive                                    15737
+Adult Undifferentiated Pleomorphic Sarcoma                  15001
+Infantile myofibromatosis                                   14560
+Myofibromatosis                                             13809
+Meningeal Carcinomatosis                                    13708
+Mammary-Type Myofibroblastoma                               13620
+Angiomyofibroblastoma                                       12985
+Adipocytic liposarcoma                                      12906
+Skeletal Muscle Neoplasm                                    12196
+Solitary Myofibromatosis                                    11825
+Conventional Leiomyosarcoma                                 11548
+Fibromatosis, Abdominal                                     11536
+Undifferentiated High Grade Pleomorphic Sarcoma of Bone     11230
+Dermatomyofibroma                                           11059
+entity
+Metastatic malignant neoplasm to adrenal gland          15098
+Metastatic malignant neoplasm to liver                  14794
+Primary malignant neoplasm of bronchus                  14618
+Metastatic malignant neoplasm to pancreas               14220
+Metastatic hepatocellular carcinoma                     13466
+Fibrolamellar Hepatocellular Carcinoma                  13386
+Primary malignant neoplasm                              13035
+Metastatic malignant neoplasm to vagina                 12407
+Intermediate Grade Malignant Neoplasm                   12374
+Secondary malignant neoplasm of lung                    12164
+Metastatic malignant neoplasm to vertebral column       11128
+Metastatic angiosarcoma                                 10476
+Metastatic Malignant Solid Neoplasm                     10381
+Metastatic Malignant Neoplasm to the Leptomeninges       9985
+Epithelial variant hepatoblastoma                        9978
+Biliary Tract Neoplasm                                   9527
+Metastatic Nasopharyngeal Undifferentiated Carcinoma     9306
+Hepatocellular carcinoma, clear cell type                9231
+Malignant neoplasm of liver                              8516
+Metastatic malignant neoplasm to brain                   8474

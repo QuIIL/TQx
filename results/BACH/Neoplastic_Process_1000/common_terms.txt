@@ -1,0 +1,84 @@
+entity
+Neoplasm of myocardium                                      3851
+Fibromatosis, Aggressive                                    3766
+Fibrous skin tumor of tuberous sclerosis                    3700
+Angiomyofibroblastoma                                       3683
+Pedunculated lipoma                                         3639
+Fibromatosis, Abdominal                                     3616
+Fibromatosis-like metaplastic carcinoma                     3593
+Extra-abdominal fibromatosis                                3592
+Ganglioneuromatosis                                         3485
+Lipofibromatosis                                            3432
+Breast implant-associated anaplastic large-cell lymphoma    3309
+Sclerosing Epithelioid Fibrosarcoma                         3230
+Metastasizing leiomyoma                                     3186
+Myxoma of the Endocardium                                   3179
+Fibromatosis                                                2940
+Breast cancer, lobular                                      2919
+Sclerosing PEComa                                           2850
+Nuchal-type fibroma                                         2629
+Breast lump (benign)                                        2592
+Invasive Lobular Breast Carcinoma                           2558
+entity
+Microcystic adnexal carcinoma               1662
+Neoplasm of myocardium                      1603
+Mucinous breast cancer                      1503
+Invasive Ductal Breast Carcinoma            1492
+Pedunculated lipoma                         1427
+Deep Lipoma                                 1405
+Intramuscular lipoma                        1386
+Fibromatosis-like metaplastic carcinoma     1372
+Invasive carcinoma of breast                1329
+Breast cancer, lobular                      1313
+Fibrous skin tumor of tuberous sclerosis    1284
+Myxoma of the Endocardium                   1275
+Angiomyofibroblastoma                       1253
+Mucinous cystadenofibroma                   1218
+Conventional Lipoma                         1216
+Basal-Like Breast Carcinoma                 1183
+Lymphangioleiomyomatosis                    1153
+Ductal Breast Carcinoma                     1145
+Breast Cancer, Familial                     1123
+Fibromatosis, Aggressive                    1118
+entity
+Metastatic malignant neoplasm to adrenal gland                       1826
+Adrenal Gland Neoplasms                                              1474
+Stage IV Adrenal Cortex Carcinoma AJCC v7                            1466
+Metastatic angiosarcoma                                              1285
+Neoplasm of adrenal medulla                                          1193
+Thyroid Gland Spindle Cell Tumor with Thymus-Like Differentiation    1052
+Adrenal Cortex Neoplasms                                             1044
+Pleomorphic hyalinizing angiectatic tumor                            1002
+Neoplasm of myocardium                                                932
+Conventional Leiomyosarcoma                                           930
+Metastatic hepatocellular carcinoma                                   927
+Pleomorphic hyalinizing angiectatic tumor of soft tissue              901
+Anaplastic Astroblastoma, MN1-Altered                                 894
+Testicular Seminoma, Pseudoglandular Variant                          865
+Anaplastic sarcoma                                                    858
+Sarcomatoid carcinoma of the prostate                                 847
+Adenomatoid Tumor                                                     812
+Anaplastic Ependymoma                                                 786
+Metastatic renal carcinoma                                            782
+Dysgerminoma                                                          771
+entity
+Pancreatic Ductal Adenocarcinoma                                3356
+Ovarian Serous Adenocarcinoma                                   3010
+Secretory breast carcinoma                                      2933
+low grade serous adenocarcinoma of ovary                        2831
+Invasive Ductal Breast Carcinoma                                2754
+Metastatic adenoid cystic carcinoma                             2751
+Medullary carcinoma of breast                                   2744
+high grade serous adenocarcinoma of ovary                       2636
+Thymic carcinoma with adenoid cystic carcinoma-like features    2594
+Grade 1 Invasive Breast Carcinoma                               2495
+Embryonal Carcinoma                                             2419
+Ductal Breast Carcinoma                                         2409
+Basal-Like Breast Carcinoma                                     2304
+Mucinous breast cancer                                          2303
+Fibrolamellar Hepatocellular Carcinoma                          2199
+Primary malignant neoplasm of bronchus                          2186
+Metastatic Breast Ductal Carcinoma                              2135
+Ovarian Serous Tumor                                            2099
+Ductal Carcinoma                                                2067
+Pancreatic Intraductal Tubulopapillary Neoplasm                 2044

@@ -1,0 +1,84 @@
+entity
+Hamartomatous polyp                          1591
+Hyperplastic Polyp                           1591
+Small intestine carcinoma                    1582
+Adenoma of large intestine                   1580
+Rectal polyp                                 1580
+Colon adenoma                                1571
+Polyp of large intestine                     1571
+Colonic Neoplasms                            1551
+Rectal Carcinoma                             1545
+Small colonic tumor                          1541
+Peutz Jeghers polyp                          1535
+Undifferentiated Carcinoma of Colon          1519
+Rectal Neoplasms                             1513
+Polyp of cecum                               1512
+Colon Carcinoma                              1497
+Anal polyp                                   1482
+Hereditary Nonpolyposis Colorectal Cancer    1472
+Colorectal Intraepithelial Neoplasia         1466
+Jejunal polyp                                1460
+Hyperplastic polyposis syndrome              1438
+entity
+Intermediate Grade Malignant Neoplasm                                 2279
+Pancreatic Intraductal Tubulopapillary Neoplasm                       2248
+Grade 3 Colorectal Adenocarcinoma                                     2158
+low grade serous adenocarcinoma of ovary                              2114
+Pancreatic Intraductal Papillary Mucinous Neoplasm, Gastric-Type      1972
+Seromucinous adenofibroma                                             1915
+high grade serous adenocarcinoma of ovary                             1907
+Metastatic adenoid cystic carcinoma                                   1803
+Pancreatic Intraductal Papillary Mucinous Neoplasm                    1686
+Ovarian Serous Adenocarcinoma                                         1677
+Crohn Disease-Associated Colorectal Adenocarcinoma                    1670
+Metastatic Colorectal Carcinoma                                       1651
+Minimal deviation adenocarcinoma of endocervical type                 1650
+Pancreatic Intraductal Papillary Mucinous Neoplasm, Oncocytic-Type    1581
+Malignant neoplasm of gallbladder                                     1569
+Metastatic Nasopharyngeal Undifferentiated Carcinoma                  1554
+Metastatic malignant neoplasm to pancreas                             1453
+Secondary malignant neoplasm of lung                                  1437
+Type I Endometrial Adenocarcinoma                                     1389
+Pancreatic Ductal Adenocarcinoma                                      1349
+entity
+Metastatic malignant neoplasm to pancreas             1155
+Metastatic hepatocellular carcinoma                   1110
+Metastatic Malignant Solid Neoplasm                   1101
+Metastatic malignant neoplasm to adrenal gland        1052
+Metastatic malignant neoplasm to liver                1031
+Secondary malignant neoplasm of lung                   989
+Intermediate Grade Malignant Neoplasm                  972
+Fibrolamellar Hepatocellular Carcinoma                 959
+Primary malignant neoplasm                             952
+Biliary Tract Neoplasm                                 890
+Malignant neoplasm of gallbladder                      856
+Metastatic Malignant Neoplasm to the Leptomeninges     851
+Metastatic angiosarcoma                                828
+Metastatic renal carcinoma                             716
+Malignant neoplasm of ovary                            711
+Metastatic malignant neoplasm to vertebral column      704
+Metastatic malignant neoplasm to brain                 699
+Primary malignant neoplasm of bronchus                 695
+Metastatic malignant neoplasm to vagina                678
+Trophoblastic Neoplasms                                638
+entity
+Pancreatic Intraductal Papillary Mucinous Neoplasm, Gastric-Type      4445
+Seromucinous adenofibroma                                             4393
+Pancreatic Intraductal Papillary Mucinous Neoplasm                    4346
+Crohn Disease-Associated Colorectal Adenocarcinoma                    4207
+Grade 3 Colorectal Adenocarcinoma                                     4206
+Colorectal Intraepithelial Neoplasia                                  4180
+Seromucinous cystadenoma                                              4113
+low grade serous adenocarcinoma of ovary                              4014
+Pancreatic Intraductal Tubulopapillary Neoplasm                       4006
+Hereditary Nonpolyposis Colorectal Cancer                             3983
+Intraductal papillary mucinous neoplasm                               3824
+Lymphangioleiomyomatosis                                              3738
+Endometrial cystic hyperplasia                                        3590
+Bronchial adenoma                                                     3439
+Pancreatic Intraductal Papillary Mucinous Neoplasm, Oncocytic-Type    3436
+Minimal deviation adenocarcinoma of endocervical type                 3406
+high grade serous adenocarcinoma of ovary                             3392
+Hamartomatous polyp                                                   3390
+Foveolar-Type Adenoma                                                 3313
+Jejunal polyp                                                         3230
