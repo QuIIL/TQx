@@ -22,7 +22,7 @@ Implementation of the paper:
 </ul>
 
 ### Model
-QUILT-1M: <a href="[https://zenodo.org/records/3632035](https://huggingface.co/wisdomik/QuiltNet-B-16)">
+QUILT-1M: https://huggingface.co/wisdomik/QuiltNet-B-16
 
 ### Word-of-interest (WoI)
 All pathology terms are stored in `entity.csv`.
