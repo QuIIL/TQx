@@ -25,7 +25,12 @@ Implementation of the paper:
 QUILT-1M: https://huggingface.co/wisdomik/QuiltNet-B-16
 
 ### Word-of-interest (WoI)
-All pathology terms are stored in `entity.csv`.
+All pathology terms are stored in `entity.csv` with 3 columns:
+<ul>
+  <li>id: Unified Medical Language System (UMLS) id of an entity (pathology word). </li>
+  <li>entity_name: pathology word </li>
+  <li>semantic_name: UMLS semantic type (category of pathology word) </li>
+</ul>
 
 ### Image features
 The text-based features of four datasets can be found in `result` folder. Each .pkl file stores all embeddings of a particular dataset with a specific setting.
