@@ -1,0 +1,1242 @@
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12007_47166_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12065_48236_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12205_7307_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12272_6243_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12296_26831_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12322_49324_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12416_46088_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12424_38443_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12587_36701_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12678_27902_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12725_15602_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12763_9218_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12812_17101_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/12918_50406_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13001_47172_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13007_19621_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13011_8141_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13019_25564_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13096_35170_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13107_48263_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13118_57930_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13194_18531_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13240_5180_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13262_14526_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13267_40157_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13382_49328_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13640_36239_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13701_27972_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13701_45502_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13787_10126_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13871_3900_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13907_61365_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13924_54697_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13954_44447_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13954_50392_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/13975_20134_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14032_29227_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14054_17421_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14096_26908_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14125_25818_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14251_34459_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14252_15349_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14272_13756_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14281_5758_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14495_6822_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14569_41121_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14712_45493_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14772_35788_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14923_23903_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14923_61658_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14924_18919_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14930_16349_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14933_46562_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14948_4704_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14956_54535_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/14966_44424_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15084_17802_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15128_24969_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15218_48698_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15266_14555_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15280_55517_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15293_6064_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15298_50825_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15386_34564_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15474_13502_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15703_47641_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15747_45502_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15863_26050_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15868_35963_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15947_23874_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15949_46569_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15961_4997_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15963_16717_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/15984_44211_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16162_24957_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16232_6559_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16378_14619_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16427_33957_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16474_50444_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16532_56869_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16609_9290_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16682_46992_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16766_3741_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16799_13554_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16804_20770_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16832_45579_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/16973_16108_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17012_49399_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17022_35155_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17139_51476_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17210_55790_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17283_44502_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17409_10589_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17475_24325_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17496_34284_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17628_50439_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17632_5595_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17655_47208_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17674_48243_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/17830_46151_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18038_49327_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18275_45086_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18289_6507_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18300_4531_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18364_57662_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18409_56619_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18447_8269_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18475_9482_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18491_59565_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18604_24754_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18616_15753_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18648_50535_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18673_47224_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18678_48265_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/18833_46168_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19202_58807_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19416_7225_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19480_8273_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19486_9318_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19550_49535_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/19699_47236_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2158_16569_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/21976_57158_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/21976_58220_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22283_18122_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22333_48014_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22410_49088_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22439_46952_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22461_39141_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22821_16502_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22910_28317_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2291_7078_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2294_27386_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22960_60972_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22980_59695_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22983_58637_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22993_56522_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22995_57574_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/22998_55445_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23028_45560_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2312_48265_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2313_26308_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2319_28471_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23275_50466_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23416_49393_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23420_6934_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23439_5872_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23440_48332_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23460_47278_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23596_36293_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23610_37349_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23625_35230_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23708_30509_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23725_20279_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23756_39474_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23758_10129_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23777_19208_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23809_7984_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23844_40548_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23942_9062_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23947_29045_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23957_61354_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/23995_58992_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24001_57914_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24004_56853_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24006_60063_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24014_55791_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24024_54722_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24044_46303_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24111_38403_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24432_49484_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24469_48424_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24477_6017_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2447_5799_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24484_47357_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24563_3765_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24773_36499_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24788_39474_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24800_35438_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24818_44651_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24824_19609_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24824_51558_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24827_34369_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24864_40543_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/24989_17599_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25001_61907_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25009_60841_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25010_59791_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25017_57690_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25023_55550_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25023_58746_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25030_8751_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25031_56630_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25032_54493_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25037_4820_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25046_46310_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25141_37585_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25340_9801_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25434_49663_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2548_8162_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25496_48581_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25507_47510_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25581_29133_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25663_14893_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25727_31256_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25779_36525_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25795_10873_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25811_35455_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25820_39118_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25827_51725_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25838_34387_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25901_20092_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/25910_7189_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26017_60859_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26026_61920_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26027_59802_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26033_58741_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26037_56616_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26041_4307_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26045_57678_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26049_8370_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2604_18803_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26051_55557_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26054_46440_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26062_54485_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26073_30189_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26170_37590_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26297_44173_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26457_50034_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26532_48936_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26728_40951_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26804_36543_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26826_35478_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26835_39765_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26862_34414_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26924_21050_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/26932_9448_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27037_47857_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27040_61109_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27044_60050_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27052_46777_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27055_58983_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27060_38695_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27065_57918_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27067_31187_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27074_56875_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27083_55797_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27088_54740_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27168_37626_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27168_45383_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27175_29730_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27306_44326_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2743_15070_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27453_51379_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27468_50319_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27541_49246_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27769_15356_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27848_8378_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/27855_34970_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28021_59184_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28070_47004_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28071_60264_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28075_48090_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28083_58556_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28099_57477_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28106_55333_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28119_56410_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28180_38169_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28188_36053_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28199_45946_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2822_49489_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/2824_25229_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28271_10112_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28333_44872_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28386_6392_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28390_37113_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28557_49811_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28578_29322_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28601_4973_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/28899_39248_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29102_48758_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29110_47686_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29128_57465_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29205_38165_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29210_46443_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29213_36062_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29631_6356_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/29779_27977_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3001_29560_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3180_45179_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/31990_58702_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/31998_47043_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32076_59763_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32120_48114_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32140_56750_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32143_49153_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32302_26980_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32435_7444_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32464_45986_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32477_25907_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32496_6397_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32607_37358_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32619_39495_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32646_8491_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32763_16496_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32948_38423_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/32993_58878_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33013_47051_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33063_59926_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33069_61395_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33082_15107_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33097_9849_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33174_55877_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3317_26334_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33185_56902_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33212_19627_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33222_30336_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33263_5328_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3328_28483_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3340_27411_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33418_44903_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33427_4285_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33497_45997_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33524_29283_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33526_7016_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33573_40575_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33667_50437_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33687_49371_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3370_50600_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33799_18568_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3382_35193_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/33942_55145_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34004_37768_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34004_38828_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34029_58322_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34032_36724_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34037_59399_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34045_34846_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34082_28340_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34084_60457_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34099_61814_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34182_8060_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34218_25580_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34218_26759_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34221_30713_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34430_16860_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34442_44508_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34465_4302_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34513_45576_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34515_9521_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34539_29641_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34606_41300_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34631_48301_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34685_50430_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34691_51488_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34699_49367_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3481_6551_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34899_14065_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34941_56482_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/34950_55418_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35030_58602_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35034_38778_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35043_36648_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35043_37717_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35044_47240_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35047_35578_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35052_34513_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35059_59578_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35101_60783_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35117_61958_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35242_25820_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35266_20745_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35451_44356_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35489_31172_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35547_30093_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35620_11084_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35629_28991_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35650_46180_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35651_48304_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35709_50429_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35711_51500_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35720_49369_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35822_7270_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35823_27403_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35943_56402_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/35958_55358_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36010_15877_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36048_40860_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3605_37724_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36063_34500_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36063_47253_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36067_35569_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36067_36652_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36076_37713_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36089_59991_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36127_61050_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36295_58914_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36488_45132_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36550_3766_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36658_46193_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36674_29113_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36684_48309_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36724_49370_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36729_50441_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36740_51503_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36791_30167_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36795_31244_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36818_39793_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36836_27688_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36939_26626_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36974_56210_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/36985_55157_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37060_40867_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37067_7853_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37093_47251_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37095_37326_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37114_59963_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37125_6672_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37140_20907_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37140_61046_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37146_57907_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37165_17669_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37168_19829_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37231_38730_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37349_35196_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37362_36261_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37419_25557_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37438_9099_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37502_45121_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37682_46186_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3769_39329_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37716_48834_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37739_49871_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3773_15309_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37752_50940_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37758_16419_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37820_29141_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37820_39784_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37874_28098_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37883_15356_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/37883_30174_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38011_55378_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38076_40858_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38101_24492_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38110_37659_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38121_47877_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38144_59744_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38161_58706_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38191_19130_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38201_7676_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38227_14273_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38229_17983_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38238_38724_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38316_60795_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3835_49087_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38384_35461_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/3845_25212_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38482_9934_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38491_8752_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38692_45566_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38735_46825_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38736_5914_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38755_50057_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38756_36603_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38796_25552_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38816_27640_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/38823_26586_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39028_56744_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39100_39780_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39153_47885_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39219_6987_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39254_38697_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39299_15914_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39403_29509_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39515_8318_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39541_59077_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39842_27069_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/39848_28153_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4039_7639_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4057_19543_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4068_30128_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4111_8763_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4114_46723_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/41767_60111_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4187_44281_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/41896_38074_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/41979_37014_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42141_56266_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42184_27958_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42208_26899_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42274_18396_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42302_17049_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42319_19485_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42417_39453_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42461_61130_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42668_8926_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42690_15714_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42779_60044_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/42820_38403_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43169_36143_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43197_28731_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43202_5311_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43229_26569_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43231_29779_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43289_10009_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43326_17254_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43350_25327_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43404_55178_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43464_18344_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4347_29063_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43495_61740_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4354_26475_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43561_4240_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43563_19427_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43607_14566_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4363_27555_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43725_16183_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43736_37331_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43744_27678_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43807_38615_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43821_59614_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/43826_60677_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44099_8974_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44192_39668_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44225_5580_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44226_28729_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44250_11084_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44324_29811_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44347_34861_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44360_26438_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44363_17238_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44381_25357_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44508_61992_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4454_35131_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4456_18479_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44641_13856_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4464_24103_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44719_3779_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44742_15442_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44746_35921_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44817_18824_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44827_10039_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44829_38599_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44845_59868_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/44907_37565_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45154_57946_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45254_21100_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45260_60925_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45264_5891_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45330_30334_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45356_29265_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45367_28217_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45377_26079_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45384_27138_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45400_24996_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45410_23922_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45540_17729_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45540_62010_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45608_16678_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45685_14336_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45775_56879_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45779_15644_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45853_10639_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45872_35576_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4587_5702_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/45988_34255_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46033_19071_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46051_38863_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46245_3617_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46249_4803_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46262_37776_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46346_30432_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46349_20110_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4634_51157_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46364_29254_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46376_27766_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46417_26178_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46422_25117_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46428_24054_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46562_61639_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46814_59251_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46834_58172_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46836_21150_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46852_57098_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46893_10903_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46901_36095_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/46923_16534_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47059_41277_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47066_19045_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47265_3851_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47287_4925_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47299_14758_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47300_60315_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47306_34954_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47320_38651_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47382_30174_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47400_29134_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47422_28080_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47429_25930_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47436_24852_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47439_27006_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47648_40233_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4775_16252_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47813_15925_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4783_39594_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47853_59121_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47864_55885_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47868_56965_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/47875_58037_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4803_17396_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48084_17299_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4817_49960_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48314_36027_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48328_60199_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48388_30212_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48402_29150_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48429_25950_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48439_28087_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48445_24877_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48452_39213_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48459_27002_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4871_25195_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48826_15278_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48831_37110_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48854_19595_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48884_57714_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/48968_16354_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49146_18498_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/4921_48831_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49225_38172_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49383_17400_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49452_29141_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49456_26432_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/49466_28062_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5111_30561_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/51224_59220_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5134_8763_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5161_7205_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/51677_37989_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5169_46432_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5198_45359_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52022_26821_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52024_47314_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52115_60107_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52192_49149_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5220_44290_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52315_28093_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52370_55742_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52468_5817_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52496_46235_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52636_6858_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52665_39063_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52670_40119_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52688_35845_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52688_36910_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52688_38002_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/52797_19147_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53050_27021_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53317_28092_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53365_16888_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53374_18109_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53384_56024_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53391_54958_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53535_47434_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53575_30331_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5359_28432_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53650_7551_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53654_41188_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5365_29501_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53686_40119_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53694_37984_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53694_39054_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53699_34762_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53699_36906_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53712_35845_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53834_19642_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/53982_24205_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54013_25800_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5403_26276_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5403_27348_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54070_31400_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54272_46309_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54285_8615_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54327_27775_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54399_54816_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54414_55886_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54421_17410_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54509_10800_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54577_9683_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54578_30084_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54665_41849_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54688_40779_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54706_39723_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54715_37620_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54724_38672_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54728_36555_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54737_20873_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54737_34430_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54746_35490_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54776_49262_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54813_50312_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54848_44767_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54856_19145_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5485_24113_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/54998_24138_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55035_25498_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55080_47715_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55117_31451_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55356_27667_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55437_55916_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55441_54838_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55459_17752_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55543_11081_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55597_45837_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55622_29820_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55690_16645_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55691_41826_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55721_40770_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55731_39704_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55741_38638_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55747_37568_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55752_48872_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55754_36497_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55767_34356_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55767_35433_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55862_50559_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/55864_44756_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5589_38504_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56078_24106_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56086_20925_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5618_3808_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56243_25482_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56366_27240_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5636_13687_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56383_47053_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56453_55011_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56496_18737_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56551_15179_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56635_30381_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56645_28471_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56689_45985_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56711_41819_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56728_40768_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56742_39725_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56751_38669_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56760_37622_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56764_36562_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56787_35506_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56791_34454_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56921_49320_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/56946_51039_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57133_24201_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57274_25327_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57368_59657_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57369_57521_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5737_36110_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57384_26864_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57385_58575_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57406_19807_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57470_48220_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57562_18495_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57650_27903_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57654_29480_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57655_16561_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57698_45553_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57744_40201_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57771_39145_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57780_35968_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57789_38089_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57793_37033_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57802_34885_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57822_60722_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/57906_56468_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58226_49981_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58376_59651_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58389_26833_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58398_57521_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58412_58599_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58518_47708_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58538_46632_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58654_28628_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58773_40197_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58782_39127_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58809_38067_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58811_19206_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58814_35955_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58823_37020_3.jpg,poorly differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5882_15506_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/58911_48782_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5909_25195_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/59101_16695_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5971_49266_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/5980_41059_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6108_39668_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6130_30574_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6171_8074_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6187_46411_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/61913_37878_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/61938_38945_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/62009_36798_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6203_7008_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/62124_40030_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6241_44294_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6261_19144_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6284_51113_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/62929_4537_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63045_36314_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63133_40190_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63271_5610_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63349_19655_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63438_41272_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63506_29896_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6366_28427_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63685_34755_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/63784_6683_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6380_29501_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6388_5018_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64124_36382_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64144_37449_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6424_27359_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64265_51838_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6435_20666_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6436_26282_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64378_19253_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64475_40325_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64515_7759_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64553_41418_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64724_34558_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64768_26790_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/64987_25733_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6501_24119_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65165_35655_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65250_37660_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65390_19393_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65402_24657_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65562_40607_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65575_41666_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6560_45341_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65635_8035_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65716_50970_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/65851_29918_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66010_25729_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66043_62298_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66058_31110_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66152_35136_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66162_36253_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66404_18543_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66446_24584_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6649_38563_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66534_61223_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66563_38600_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66602_41763_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66620_40715_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66642_8164_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66646_37544_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66751_50974_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66788_49915_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/66889_29459_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67156_27552_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67180_34821_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67181_35885_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67201_48865_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67431_18084_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67514_26460_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67558_60992_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6764_3623_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67661_38167_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67675_41178_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67675_8202_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67769_25403_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67777_47798_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/67806_49923_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68216_17022_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6821_37343_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68220_48846_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68298_59941_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68350_46734_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68534_36033_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68634_37084_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68678_38166_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68724_8310_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/68794_47825_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/69240_16673_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6935_25196_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6937_34627_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/6975_48784_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7014_13832_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/70249_17203_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7034_49862_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7089_40715_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7147_30651_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7172_9995_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/71812_59186_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/71822_60265_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/71936_27734_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72272_26657_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7238_47098_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72634_25605_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72824_59612_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72830_60666_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72864_58541_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/72866_57474_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7307_18310_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7328_50931_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73310_41484_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73313_28615_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73430_27581_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73550_24527_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73643_26520_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73871_58152_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73878_60279_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73891_59232_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73906_57100_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73963_45816_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7397_29496_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/73980_30600_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7408_28422_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7419_17250_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7434_36284_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74522_28435_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74571_24088_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7460_27350_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7462_26270_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74678_25724_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74910_59623_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74916_58557_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74920_57505_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74940_56437_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/74990_45807_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75014_31139_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75018_30047_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75507_27036_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7573_19378_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75920_25213_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75927_58496_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75930_57434_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75944_59578_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/75948_56352_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76028_30157_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76042_31550_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76611_26919_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76615_28171_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76617_24147_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7685_20441_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/76969_56590_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77053_30288_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77057_31348_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77434_57848_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7752_5699_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77639_27709_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77652_24515_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77775_25592_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/77992_56778_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/78082_30710_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/78149_29652_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7835_39429_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/78454_57869_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/78665_25603_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/78815_26659_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7956_25188_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7972_34637_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/7989_16160_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8075_49600_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8196_10102_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8196_40505_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8253_9044_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8255_46805_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8255_47865_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8334_18325_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8372_50650_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8399_37832_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8424_29484_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8428_17256_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8436_28424_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8496_27321_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8691_36821_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8711_19381_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8822_4825_1.jpg,well differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8868_39437_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/8928_35628_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9000_25623_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9030_16189_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9239_8417_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9272_47186_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9279_48247_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9347_18309_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9464_17245_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/tma_06/9524_27312_2.jpg,moderately differentiated cancer.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/12415_26476_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/14578_24999_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/15732_23459_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/16204_22372_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/16429_21285_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/16783_23459_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/16921_20229_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/17201_19162_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/17256_22384_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/17477_21313_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/17945_18095_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/17973_20237_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/18229_19166_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/18245_17015_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/18938_14873_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19186_15948_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19190_13793_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19249_18091_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19269_16996_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19332_12690_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19477_11603_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19938_14861_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19950_10508_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19954_9433_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/19970_8350_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20214_15956_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20222_13750_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20293_17007_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20549_12631_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20722_7145_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20726_11560_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20955_14849_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/20990_10500_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/21010_9421_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/21014_8322_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/21742_6136_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/21754_7196_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22151_58673_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22530_57594_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22763_4986_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22763_6030_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22770_7109_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/22900_59717_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/23239_58658_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/23471_60800_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/23791_4316_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/23802_5435_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/23932_59737_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/24271_58661_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/24787_3611_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/24815_4683_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/24960_59725_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/25303_58677_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/25811_3021_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/25819_5179_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/25831_4104_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/25988_59725_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/26331_58646_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/26835_2922_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/26847_3986_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27019_7066_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27048_5984_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27343_58662_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27579_43105_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27607_44197_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27709_42018_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27768_36665_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27859_3367_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/27989_35582_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28012_37729_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28020_40959_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28077_6185_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28178_39895_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28205_38820_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28245_45260_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28264_34515_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28375_57771_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28658_44185_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28721_43105_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28733_42026_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28824_36673_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/28872_3509_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29021_35574_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29044_40975_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29068_37776_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29202_39935_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29222_38871_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29265_56716_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29281_45248_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29438_33061_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29466_6883_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29667_44145_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29765_34129_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/29997_30986_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30001_32049_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30325_56716_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30349_4364_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30356_55648_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30477_6756_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30490_29926_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30600_45418_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30710_44319_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30809_54577_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/30845_53525_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31018_31021_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31022_32092_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31380_55664_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31493_6592_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31616_46343_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31652_45284_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31782_44181_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/31853_54246_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/32066_53147_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/32069_52074_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/32794_45102_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/32826_44070_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/32897_54246_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33090_53151_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33102_52075_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33332_51018_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33810_46142_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33838_45087_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/33842_43996_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34030_49955_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34137_52098_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34348_51016_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34834_46406_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34842_45351_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34846_44291_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34858_43200_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/34985_48915_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35043_49960_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35122_6840_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35356_51042_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35819_47858_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35843_46777_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35862_45674_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35878_42471_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35890_43543_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/35894_44598_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36022_48947_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36075_50016_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36146_6832_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36899_47588_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36911_43326_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36914_44389_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36916_46526_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36922_42249_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/36924_45458_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37046_48664_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37159_7242_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37934_45157_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37936_43006_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37942_41903_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37942_46223_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37942_47294_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/37944_44082_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/38950_43217_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/38958_42175_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/38960_45321_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/38968_46379_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/38971_44270_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/39610_47704_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/39614_48771_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/39728_49823_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/39831_50879_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/39976_46629_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40634_47704_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40733_44517_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40748_51950_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40752_49843_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40764_43426_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/40855_50890_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41000_53017_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41004_46640_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41016_45573_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41083_48767_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41343_54101_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41650_47700_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41761_44198_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41761_51962_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41784_49855_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41788_43115_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/41867_50902_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/42072_45289_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/42359_53037_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/42363_54093_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/42623_41670_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/42840_43257_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/43179_40066_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/43387_54774_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/43395_53703_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/43639_42197_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/43730_41142_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/44407_54270_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/44423_55314_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/44620_37278_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/44900_36171_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/45057_35127_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/45420_34060_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/45585_55334_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/45904_32984_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/46495_31905_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/47543_31086_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/48587_30318_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/49138_29061_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/49682_27998_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/50150_57752_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/50725_27297_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/51088_25099_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/51308_26194_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/51659_24047_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/52124_25118_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/52191_21703_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/52687_24094_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/52923_23011_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/53219_20896_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/53250_21956_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/56646_58516_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/56662_59583_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/57682_58937_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/57686_57885_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/58698_59492_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/58706_58417_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/58710_57346_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/59726_56322_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/59726_58457_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/59734_57393_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/60683_55246_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/60766_56318_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/61366_26684_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/61696_55258_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/61747_54183_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/62698_27539_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/62759_53352_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/62783_54431_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/63340_26475_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/63492_52276_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/63757_27543_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/63803_53352_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/64122_50145_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/64130_51217_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/64494_42175_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/64777_28027_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/64868_41104_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/65150_50721_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/65158_49633_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/65166_51800_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/65742_40048_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/65833_27992_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/66528_38991_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/66949_37918_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/67161_33321_0.jpg,benign.
+/home/compu/anhnguyen/dataset/KBSMC_512/wsi_03/67770_32272_0.jpg,benign.

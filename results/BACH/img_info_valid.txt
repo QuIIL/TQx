@@ -1,0 +1,2674 @@
+/data3/anhnguyen/BACH_512_v3/A02/10116_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10116_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_4047_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_5071_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_5583_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_7119_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_8143_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_8655_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10191_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10625_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_11652_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10628_14724_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_4047_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_4559_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_5583_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_6607_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_7631_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_8143_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_8655_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/10703_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11137_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_11652_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_14724_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_16260_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11140_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11491_13539_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/11652_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/11652_16260_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12161_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_16260_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12164_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12515_14563_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12515_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12515_16355_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12515_16867_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12673_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12673_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12673_15233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12673_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12673_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12673_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12676_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12676_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12676_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12676_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12676_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12771_14307_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12771_14563_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12771_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12771_16611_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/12864_12864_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_13888_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_14912_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_15936_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_16448_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_16960_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_17984_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_18496_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/12864_19008_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13027_13539_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_13795_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_14051_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_14307_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_14563_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13027_15075_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13185_13185_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_13697_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13185_17793_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13188_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13283_13539_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_13795_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_14051_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_14307_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_14563_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_15075_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_15331_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_15587_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13283_15843_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13376_13376_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_13888_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_15424_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_17472_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_17984_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_19008_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13376_19520_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13539_12515_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_12771_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_13539_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_13795_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_15075_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13539_16867_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13697_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13697_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13697_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13697_15233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13697_15745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13700_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13795_12003_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13795_14819_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13795_15075_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/13888_13376_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_13888_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_15424_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_15936_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_16448_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_16960_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_17984_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_18496_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/13888_19008_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_15233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14209_18305_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_11652_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14212_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_12864_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_15424_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_15936_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_16448_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_17472_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_17984_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_18496_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14400_19520_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_12673_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_13185_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_15745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_17793_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14721_18305_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_11140_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_11652_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14724_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_12864_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_13888_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_14912_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_15424_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_16448_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_16960_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_17472_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_19008_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/14912_19520_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15075_11491_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/15075_11747_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/15075_12003_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/15233_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_12161_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_12673_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_13185_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_15233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15233_18305_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_10628_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_11652_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_12164_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_14724_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15236_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_12864_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_13376_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_14400_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_14912_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_15424_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_16448_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15424_16960_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15513_18073_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_11137_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_11649_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_12161_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_12673_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_13697_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_15233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_15745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15745_17793_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_10116_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_12676_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_14212_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_14724_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/15748_16260_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_11137_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_12161_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_12673_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_13185_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_15745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16257_18305_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_13188_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_13700_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_14724_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_15748_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16260_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16628_16628_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/16769_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_11649_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_13185_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_13697_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_16257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16769_18305_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16772_15236_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/16772_16772_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_10625_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_11649_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_12161_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_13697_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_14209_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_14721_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_15745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_16769_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_17281_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17281_17793_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_17915_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_20987_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_23547_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_24571_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_25083_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_25595_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_26107_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_28667_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17403_29179_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_17403_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_17915_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_19963_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_20987_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_23547_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_27131_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_27643_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/17915_29179_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_20987_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_23547_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_28667_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18427_29179_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_17403_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_17915_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_19963_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/18939_28667_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19097_20121_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19097_20633_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19399_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_17403_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_19963_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_23547_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19451_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19609_19609_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19609_20633_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19911_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19911_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19911_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19911_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19911_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_17915_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_23547_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_28667_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/19963_29179_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20120_25240_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20121_20633_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20423_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20423_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20423_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20423_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20423_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_17403_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_17915_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_24571_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20475_28667_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20632_25752_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20632_26264_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20935_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_18427_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_18939_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_19451_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_20475_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_22523_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_24571_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_25083_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/20987_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21144_25752_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21144_26264_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21327_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21327_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21327_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21327_27983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21447_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21447_19911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21447_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21447_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21447_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_20987_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_21499_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_22011_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_23035_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_24059_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_24571_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_25595_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21499_28155_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21656_25752_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21839_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21839_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21839_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21839_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21839_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21959_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/21959_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22168_25752_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22168_26264_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_26447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22351_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22471_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22471_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22471_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22471_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22680_25752_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22680_26264_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_21839_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_23375_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_23887_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22863_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22983_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22983_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22983_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22983_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/22983_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23192_22680_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23375_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23375_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23375_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23375_26447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23375_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23495_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23495_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_23375_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_26447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/23887_27983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24007_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24007_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24399_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24399_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24399_26447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24399_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24399_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24519_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24519_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24519_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_23887_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_26447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/24911_27471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25031_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_23375_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25423_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25438_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25438_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25543_20423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25543_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25543_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25543_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_21327_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_22351_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_23375_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25935_26959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/25950_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/25950_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26055_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_19911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26055_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26447_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26447_23887_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26447_24399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26447_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26447_25935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26462_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26462_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26567_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_19911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26567_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_21327_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_21839_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_22863_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_23375_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_23887_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_24911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26959_25423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/26974_26462_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/26974_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27079_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27079_26055_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27486_26462_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27486_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27591_19399_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_20423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27591_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/27645_34301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27645_34813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27645_35325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27645_35837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_26462_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/27998_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28103_20423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28103_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28138_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28157_35325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28510_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28615_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28615_21447_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28615_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28615_23495_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28615_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28615_25543_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/28650_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28650_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/28669_31741_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_32094_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29022_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29127_19911_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_20423_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_20935_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_21959_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_22471_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_22983_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_24007_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_24519_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29127_25031_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/29162_33770_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29162_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29162_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29162_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29181_30717_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29437_29949_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29437_30205_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29534_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_33770_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29674_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29693_29693_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29693_29949_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29693_31229_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29693_31741_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29949_29693_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/29949_29949_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30046_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30186_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30186_33770_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30186_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30186_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30186_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30205_29693_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30205_29949_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30205_30205_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30205_30205_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30461_29693_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30461_29949_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30461_30205_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_25950_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30558_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30698_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30698_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30698_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30717_29693_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/30717_30205_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31070_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31210_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31229_35837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31229_36349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31229_36861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_25438_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_26462_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_27486_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_31582_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31582_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31722_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31722_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31741_35837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/31741_37373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_27998_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_28510_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_32606_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32094_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32234_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_26974_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_31070_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32606_33118_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/32746_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33118_29022_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33118_29534_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33118_30046_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33118_30558_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33258_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33258_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33258_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33258_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33770_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33770_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33770_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33770_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/33770_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34282_28138_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34282_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34282_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34282_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/3468_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3468_8076_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3468_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3468_9100_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3468_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/34794_27626_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34794_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34794_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34794_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/34794_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35306_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35306_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35306_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35306_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35306_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35765_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35818_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_35825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/35825_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36277_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_33770_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36330_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_35825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_36337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_36849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36337_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36789_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36842_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36849_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36861_30717_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/36879_36879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/3724_10124_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_7564_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_7820_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_8076_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_8332_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_8844_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_9100_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3724_9612_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/37301_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37301_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_27626_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_30698_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_31210_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_34794_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37354_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37361_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37391_36879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37391_37391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37813_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_27626_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_28138_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_28650_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_29162_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_29674_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_30186_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_31722_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_32234_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_32746_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_33258_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_33770_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_34282_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37866_35306_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_37361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_37873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/37873_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38325_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_37873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38385_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_37301_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38837_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38897_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_43507_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_44019_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/38899_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39349_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39409_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39409_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39411_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39411_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39411_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39411_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/3980_10124_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_10380_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_10636_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_7052_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_7564_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_7820_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_8076_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_8332_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_8844_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_9612_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/3980_9868_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/39861_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39861_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_36337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39921_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39923_39923_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39923_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39923_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39923_44019_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/39923_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/3996_4252_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/40373_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40373_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40433_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_38899_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_39923_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_44019_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40435_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4047_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4047_6607_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4047_7631_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4047_8655_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4047_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4047_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/40492_40492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40492_40748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40492_41004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40748_40492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40748_40748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40748_41004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40780_40780_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40780_41036_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40780_41292_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40780_41548_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40885_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_38897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_39921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40945_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40947_38899_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40947_39923_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40947_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/40947_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41004_40492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41004_40748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41004_41004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41036_40780_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41036_41036_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41036_41292_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41036_41548_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41036_41804_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41089_41345_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41089_41601_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41260_40492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41260_40748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41260_41004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41292_41036_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41292_41292_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41292_41548_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41292_41804_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41345_41089_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41345_41345_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41345_41601_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41397_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_37873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_38385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_40433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41457_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_38899_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_39923_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41459_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41909_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41969_36337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41969_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41969_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41969_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41969_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_39923_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_43507_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_45043_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/41971_45555_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4236_10380_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_10636_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_7052_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_7564_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_7820_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_8076_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_8332_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_8844_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_9100_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_9612_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4236_9868_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/42421_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_36789_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_37813_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_38325_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42421_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4244_4500_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4244_4756_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4244_5012_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/42481_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42481_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42481_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42481_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_41459_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_43507_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42483_46579_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4252_4252_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/42933_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_40373_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42933_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_36337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_39409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42993_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42995_41971_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42995_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/42995_46579_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43284_43284_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43284_43540_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_35765_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_36277_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_38837_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_39349_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_39861_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_40885_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_41397_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_41909_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_42421_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_42933_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43445_43445_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_35825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_36337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_40945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_41457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_41969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_42481_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_42993_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43505_43505_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43507_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43507_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43507_45043_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43507_46067_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43540_43284_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/43540_43540_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44019_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44019_45043_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44019_45555_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_40947_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_44019_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_45043_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/44531_45555_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4492_10636_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_7052_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_8076_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_8332_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_8844_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_9100_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4492_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4500_4500_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4500_4756_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4500_5012_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/45043_39411_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45043_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45043_42995_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45043_43507_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45043_44531_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45043_45043_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4508_4252_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/45555_42483_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/45555_43507_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4559_4559_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4559_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4559_6607_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4559_8143_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4559_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4559_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/45842_46354_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46003_46003_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46003_46259_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46003_46515_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46003_46771_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46003_47027_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46067_38899_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46067_40435_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_46742_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_46998_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_47254_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_47510_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_47766_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_48022_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_48278_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46230_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_46003_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_46259_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_46515_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_46771_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_47027_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46259_47283_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46340_46340_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46340_46596_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46340_46852_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46340_47108_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46340_47364_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46340_47620_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46354_46866_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46354_47378_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46354_47890_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46354_48914_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46354_49426_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46389_47157_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46389_47413_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46389_47669_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46389_47925_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/46486_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_46742_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_46998_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_47254_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_47510_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_47766_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_48022_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_48278_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46486_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_46003_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_46259_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_46515_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_46771_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_47027_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46515_47283_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46526_46526_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46526_46782_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46526_47038_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46526_47294_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46579_38899_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46579_39411_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46604_46860_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46604_47116_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46604_47372_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46604_47628_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46742_46230_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46742_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46742_46742_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46742_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_46003_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_46259_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_46515_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_46771_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_47027_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46771_47283_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46782_46526_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46782_46782_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46782_47038_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46782_47294_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46782_47550_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46860_46604_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46860_46860_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46860_47116_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46860_47372_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46860_47628_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46866_45842_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/46998_46230_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46998_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/46998_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47038_46526_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47038_46782_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47038_47038_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47038_47294_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47038_47550_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47254_46230_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47254_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47254_48278_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47254_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47294_46526_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47294_46782_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47294_47038_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47294_47294_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47294_47550_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47378_45842_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/47378_46354_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/4748_8332_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4748_8588_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4748_8844_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4748_9100_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4748_9356_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/47510_46230_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47510_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47510_48022_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47510_48278_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47510_48534_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/4756_4756_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4756_5012_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/4756_5268_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/47736_47736_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47736_47992_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47736_48248_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47736_48504_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47736_48760_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_46486_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_46742_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_46998_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_47254_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_47510_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_47766_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_48022_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47766_48278_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47890_47378_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/47980_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47980_48492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47980_48748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47980_49004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47980_49260_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47992_47736_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47992_47992_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47992_48248_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47992_48504_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/47992_48760_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/48236_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/48236_48236_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/48236_48492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/48492_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/48748_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49004_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49260_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49360_49360_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49360_49616_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49360_49872_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49360_50128_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49516_47980_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49616_49360_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49616_49616_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49616_49872_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49616_50128_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49772_48236_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_50602_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_50858_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_51114_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_51370_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49834_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49872_49360_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49872_49616_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/49872_50128_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50028_48236_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50028_48492_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50028_48748_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50028_49004_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50028_49260_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_50602_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_50858_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_51114_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_51370_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50090_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50128_49360_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50128_49616_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50128_49872_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50128_50128_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/5012_4756_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5012_5012_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5012_5268_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/50346_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50346_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50346_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50346_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/5043_4787_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5043_5043_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5043_5299_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/50602_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50602_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/5071_5071_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5071_5583_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5071_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5071_7119_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5071_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5071_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/50858_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/50858_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51114_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51114_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51370_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51370_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51370_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51484_49436_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/51626_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51626_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51626_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51626_51370_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51626_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_50602_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_50858_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_51114_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_51370_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/51882_51626_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_50602_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_50858_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52138_51114_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_49834_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_50090_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_50346_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_50602_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_50858_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/52394_51114_2.jpg,in situ carcinoma.
+/data3/anhnguyen/BACH_512_v3/A02/5260_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5260_5260_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5260_5516_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5299_4787_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5299_5043_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5299_5299_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5516_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5516_5260_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5555_4787_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5555_5043_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5583_4047_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5583_4559_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5583_5583_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5583_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5583_6607_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/5772_3468_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_3724_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_4492_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_5260_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_6284_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/5772_6540_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_4492_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_4748_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_5260_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_5772_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_6284_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_6540_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_6796_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_7052_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6028_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6095_5583_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_6095_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_6607_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_7119_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_7631_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_8143_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6095_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/6284_4492_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_4748_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_6284_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_6540_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_6796_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6284_7052_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_4492_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_4748_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_5004_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_6028_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_6796_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6540_7308_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A02/6607_5071_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/7119_4047_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/8655_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9167_8655_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9167_9167_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9679_4047_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9679_8143_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9679_8655_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A02/9679_9679_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/12550_16134_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1286_4870_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1286_5894_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1286_7942_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1286_9478_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1286_9990_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/13062_15622_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/13062_16134_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/13574_15622_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14086_16134_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14086_16646_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14237_14749_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14598_16646_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14749_14237_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/14749_15773_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/15261_15261_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/15261_15773_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/17313_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17313_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/17825_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/1798_10502_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1798_5382_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1798_8454_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1798_8966_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/1798_9990_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/18337_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18337_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18337_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18337_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18337_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18849_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18849_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18849_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18849_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/18849_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19361_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19873_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/19969_26625_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20385_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_15777_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20897_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/20993_25601_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_15777_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21409_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_14753_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_15265_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_15777_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/21921_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22208_23232_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/22433_14753_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_15265_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_15777_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22433_23969_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_14753_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_15265_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_18337_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/22945_23457_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/2310_10502_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/2310_8454_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/2310_8966_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/2310_9478_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/23457_14753_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_15265_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_15777_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_16289_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_16801_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_17825_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_18849_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_19361_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_21921_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23457_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_14753_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_17313_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_19873_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_20385_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_20897_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_21409_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_22433_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/23969_22945_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/24521_34249_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/24521_34761_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/24814_26094_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/24814_26350_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/24814_27118_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/24814_27374_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25033_33737_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/25070_25838_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25070_26094_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25545_33737_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/25545_34249_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/25582_25582_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25838_25326_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25838_25582_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25838_29422_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/25838_29678_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26057_33737_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/26057_35785_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/26094_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26350_30190_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26350_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26350_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26569_33225_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/26569_33737_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/26606_29422_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26606_30190_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26606_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26606_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26606_30958_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26606_31214_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26862_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26862_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26862_30958_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/26862_31214_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/27081_31177_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27081_32201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27081_32713_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27081_34761_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27081_35273_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27593_30665_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27593_34249_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27593_35273_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/27630_31470_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/27886_30958_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/27886_31214_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/27886_31470_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28105_30665_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28105_31689_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28105_32201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28105_35273_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28142_27886_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28142_31470_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/2822_8966_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/2822_9478_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/2822_9990_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28398_30190_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28398_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28617_25033_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28617_31177_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28617_31689_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28617_32201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28617_35273_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28617_35785_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/28654_27374_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28654_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28654_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28910_30446_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28910_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28910_30958_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/28910_31470_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/29129_25033_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29129_30665_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29129_31177_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29129_31689_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29129_36297_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29166_30702_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/29166_31470_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/29641_25033_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_26057_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_29641_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_30665_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_31177_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_31689_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_35273_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29641_35785_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/29678_27374_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/30153_24521_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30153_29641_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30153_30153_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30153_30665_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30153_31689_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30153_32201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30446_28654_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/30663_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/30663_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/30663_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/30663_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/30663_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/30665_28617_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30665_29641_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30665_30153_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/30968_31992_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/31175_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31175_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31224_32248_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/31687_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_34247_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/31687_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32199_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/32711_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33055_34079_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/33223_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_34247_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33223_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33311_34079_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/3334_10502_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/3334_8454_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/3334_8966_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/33567_34335_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/33735_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33735_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/33823_34591_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34079_33055_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34079_34591_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34247_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34247_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34335_33311_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34335_34847_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34591_33567_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34591_35103_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/34759_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34759_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/34847_33823_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/35103_34079_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/35271_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35271_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35271_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35271_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35271_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35359_34335_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/35783_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_34247_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/35783_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36295_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/36807_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37099_39659_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/37319_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37319_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37319_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37785_37785_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/37785_38041_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/37785_38297_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/37831_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/37831_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38041_38041_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/38041_38297_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/38123_37611_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38123_39147_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38123_57067_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38215_39239_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38343_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_34247_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38343_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/3846_10502_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/3846_12038_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/3846_7942_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/3846_8454_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38501_40037_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38635_38123_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38635_38635_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38635_43243_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38635_57579_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38727_37703_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/38855_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_33735_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/38855_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39013_39525_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39013_40037_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39013_40549_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39367_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_34247_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_36807_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39367_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39525_40549_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_37611_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_39147_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_39659_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_43243_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_47339_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_47851_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_56555_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39659_57067_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/39879_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_36295_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/39879_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40037_39013_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_39659_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_42731_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_43243_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_47851_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_55531_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40171_56043_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40391_30663_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_31175_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_31687_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_32199_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40391_41415_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40549_38501_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40549_39525_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40549_40037_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40683_39659_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40683_52971_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40683_53483_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40683_55531_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/40903_32711_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_33223_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_34759_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_35271_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_35783_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_37319_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_37831_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_38343_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_39367_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_39879_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_40391_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/40903_40903_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/41195_41195_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41195_52971_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41195_53483_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41195_57067_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41415_38855_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/41707_38123_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41707_39147_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41707_41707_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41707_49387_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/41707_50411_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42219_39659_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42219_48363_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42219_49387_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42219_49899_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42401_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42401_50593_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42713_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/42713_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/42731_47851_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42731_49899_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42731_51435_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42913_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/42969_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/42969_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43225_43993_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43243_47339_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43243_48363_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43243_48875_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43243_49899_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43425_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43481_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43481_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43481_43993_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43481_46297_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43481_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43481_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43526_43526_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/4358_11526_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/4358_7942_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/43737_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43737_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43737_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43737_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/43755_48363_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/44055_43543_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/44249_43225_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/44249_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/44249_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/44761_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/44779_46315_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45017_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45079_43543_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45273_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45291_46827_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45291_52459_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45291_52971_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45291_53995_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45529_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45529_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45529_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45529_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45785_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/45803_48363_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45803_53483_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45803_54507_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/45985_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/46041_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46041_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46041_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46041_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46041_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46041_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46297_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46297_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46297_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46315_54507_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/46553_42457_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46553_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46553_47321_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46553_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46553_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46809_42457_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46809_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46809_42969_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46809_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/46827_37099_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/46827_53995_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/47009_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/47065_42457_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_42969_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_46809_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_47065_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_47321_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47065_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_44761_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_45017_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_45273_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_47065_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_47321_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47321_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47521_42401_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/47577_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_42969_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_44505_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_44761_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_45017_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_45273_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_45785_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47577_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_42713_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_42969_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_43225_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_44505_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_44761_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_45017_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_45273_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_45785_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_46041_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_51161_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_51417_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/47833_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48033_41889_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/48033_42401_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/48089_44761_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_45017_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_45273_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_45529_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_45785_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_46041_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_46553_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_46809_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_47065_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_47321_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_47577_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_47833_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_51161_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_51417_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48089_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_42969_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_45273_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_46041_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_46297_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_46553_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_46809_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48345_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48545_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/48545_42401_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/48601_43225_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_49113_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_51161_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_51417_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48601_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/4870_8966_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/4870_9478_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/4870_9990_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/48857_43225_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_43993_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_48601_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_48857_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_51417_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/48857_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49057_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/49057_42913_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/49113_43481_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_43737_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_48345_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49113_51929_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_44761_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_48089_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49369_50905_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49569_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/49569_43425_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/49625_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49625_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49625_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49625_50649_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49625_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_49369_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_49625_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_49881_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_50393_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/49881_51673_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/50081_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/50081_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/50081_43425_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/50137_50137_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/50137_51417_1.jpg,benign.
+/data3/anhnguyen/BACH_512_v3/A06/50593_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/50593_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/50593_44449_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/50593_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/50593_45985_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/51105_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/51105_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/51105_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/51105_44449_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/51105_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/51105_45473_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/51617_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/51617_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/51617_43937_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/51617_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/52129_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/52129_44449_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/52129_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/52641_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/52641_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/52641_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/52641_44449_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/52641_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/52641_45473_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/53153_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/53153_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/53153_45985_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/53665_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/53665_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/53665_43937_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/53665_44961_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/53665_46497_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/54177_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54177_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54177_43937_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54177_44449_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54177_55713_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/54448_53936_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/54689_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54689_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54689_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54689_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54689_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/54689_45473_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/54689_55201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/54689_56737_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/55201_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55201_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55201_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55201_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55201_45985_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/55201_55201_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/55201_56225_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/55713_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55713_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55713_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/55713_46497_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/56225_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56225_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56225_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56225_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56225_45985_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56225_46497_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/56225_47009_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/56737_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_43937_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_44449_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_46497_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/56737_47009_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/56737_53153_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/57249_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_44449_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_46497_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57249_47521_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/57761_41889_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_43937_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_44449_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_45985_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_46497_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/57761_47521_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/58273_42401_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_42913_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_43425_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_43937_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_44449_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_44961_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_45473_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58273_45985_3.jpg,invasive carcinoma.
+/data3/anhnguyen/BACH_512_v3/A06/58745_58233_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/5894_3334_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/5894_4358_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/5894_8454_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/59257_58745_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/59769_59257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/60793_59257_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/6406_4358_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/6406_4870_0.jpg,normal.
+/data3/anhnguyen/BACH_512_v3/A06/6918_3846_0.jpg,normal.
