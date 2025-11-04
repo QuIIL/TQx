@@ -35,4 +35,4 @@ All pathology terms are stored in `entity.csv` with 3 columns:
 ### Image features
 The text-based features of four datasets can be found in `result` folder. Each .pkl file stores all embeddings of a particular dataset with a specific setting.
 For example: `all_img_features_sorted.pkl` store visual embeddings that are created from a visual encoder. `image_text_representation.pkl` in `Colon/Neoplastic_Process_1000/` stores text-based embeddings when the filter is `Neoplastic_Process`
-Due to the size limitation, please find the Bladder results at [here](https://drive.google.com/drive/folders/14zNPbc-L9EtEocHutuMK78xg8ZFBhc98?usp=drive_link).
+Due to the size limitation, please find the Bladder results at [here](https://drive.google.com/drive/folders/1ay_uRoxTyzMBTg6bDHv5hFql1YPdY_62?usp=sharing).
